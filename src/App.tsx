@@ -1,6 +1,4 @@
 import React from 'react';
-// Styles
-import './App.css';
 
 const App: React.FC = () => (
   <div className="App">
