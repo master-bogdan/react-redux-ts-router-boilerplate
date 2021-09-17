@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Scalable start boilerplate for react-redux-typescript pattern  
 Folder logic:
-
+```
  ┣ assets - icons, images
  ┣ components - shared and reusable components
  ┣ constants - any app constants
@@ -35,3 +35,4 @@ Folder logic:
  ┣ index.tsx
  ┣ react-app-env.d.ts
  ┗ setupTests.ts
+ ```
